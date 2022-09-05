@@ -9,8 +9,13 @@ awscli = "*"
 jupyter = "*"
 boto3 = "*"
 pyarrow = "*"
+pyyaml = "*"
+pylint = "*"
+moto = "*"
+coverage = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.10"
